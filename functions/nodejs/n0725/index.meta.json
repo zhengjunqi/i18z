@@ -1,0 +1,17 @@
+{
+  "apiID": "package_copy784dd__c__function_m2qz2wlvqsabq",
+  "apiName": "n0725",
+  "label": {
+    "zh_CN": "n 0725",
+    "en_US": "n 0725"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}
